@@ -27,10 +27,10 @@ src="https://vimeo.com/647705308">
 
 > ## Quiz question
 >
-> Which of the following statements are true?
-> 1. A probability distribution assigns probabilities to possible outcomes of an experiment.
-> 2. The probabilities in a statistical distribution sum/integrate up to 1.
-> 3. If the experiments are not randomized, the results don't follow a statistical distribution.
+> Which of the following statements are true?  
+>   1. A probability distribution assigns probabilities to possible outcomes of an experiment.  
+>   2. The probabilities in a statistical distribution sum/integrate up to 1.  
+>   3. If the experiments are not randomized, the results don't follow a statistical distribution.  
 > > ## Solution
 > >
 > > Answers 1 and 2 are correct. To 3: If experiments are not randomized, the results still follow some distribution, but they are likely to not represent reality well.
