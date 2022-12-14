@@ -16,7 +16,7 @@ keypoints:
 # Sampling frogs in a lake
 
 <p align="center">
-<img src="../fig/sampling-frogs.png" width="200"/>
+<img src="../fig/sampling-frogs.png" width="500"/>
 </p>
 
 Let's start with an example, and thereby define some terminology.
