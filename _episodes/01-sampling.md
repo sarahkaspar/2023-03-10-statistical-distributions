@@ -20,3 +20,14 @@ This video explains what *sampling* is and how sampling relates to *probability 
 src="https://vimeo.com/647705308">
 </iframe> 
           
+
+
+> ## Quiz question
+>
+> Which of the following statements are true?
+>
+> > ## Solution
+> >
+> > This is the body of the solution.
+> {: .solution}
+{: .challenge}
