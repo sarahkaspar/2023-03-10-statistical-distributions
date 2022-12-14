@@ -1,13 +1,16 @@
 ---
 title: "Sampling"
 teaching: 10
-exercises: 0
+exercises: 5
 questions:
-- "Key question (FIXME)"
+- "What is sampling?"
+- "What is a statistical distribution?"
 objectives:
-- "First learning objective. (FIXME)"
+- "Understand the concept of sampling and statistical distributions."
 keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
+- "Sampling means drawing events from the population of interest."
+- "Sampling has to be random and independent for the sample to represent the population well."
+- "Sampling processes can often be described by a statistical distirbution."
 ---
 
 # Sampling frogs in a lake
@@ -25,9 +28,11 @@ src="https://vimeo.com/647705308">
 > ## Quiz question
 >
 > Which of the following statements are true?
->
+> 1. A probability distribution assigns probabilities to possible outcomes of an experiment.
+> 2. The probabilities in a statistical distribution sum/integrate up to 1.
+> 3. If the experiments are not randomized, the results don't follow a statistical distribution.
 > > ## Solution
 > >
-> > This is the body of the solution.
+> > Answers 1 and 2 are correct. To 3: If experiments are not randomized, the results still follow some distribution, but they are likely to not represent reality well.
 > {: .solution}
 {: .challenge}
