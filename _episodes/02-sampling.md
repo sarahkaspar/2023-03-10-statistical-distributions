@@ -15,8 +15,9 @@ keypoints:
 
 # Sampling frogs in a lake
 
-![](../fig/sampling-frogs.png)
-new path
+<p align="center">
+<img src="../fig/sampling-frogs.png" width="200"/>
+</p>
 
 Let's start with an example, and thereby define some terminology.
 We have a lake with frogs in it, and there are light and dark green frogs.
